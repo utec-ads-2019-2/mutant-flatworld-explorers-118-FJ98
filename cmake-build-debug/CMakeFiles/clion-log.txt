@@ -1,0 +1,4 @@
+/snap/clion/83/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make -DCMAKE_C_COMPILER=/usr/bin/cc -DCMAKE_CXX_COMPILER=/usr/bin/c++ -G "CodeBlocks - Unix Makefiles" /home/felix/ADS-20192/UVA-PROBLEMS/mutant-flatworld-explorers-118-FJ98
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/felix/ADS-20192/UVA-PROBLEMS/mutant-flatworld-explorers-118-FJ98/cmake-build-debug
